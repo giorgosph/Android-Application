@@ -1,5 +1,5 @@
 # Android Application
-![Gameplay Screenshot]https://github.com/giorgosph/Android-Application/blob/main/intro.png "Gameplay Screenshot")
+![Gameplay Screenshot](https://github.com/giorgosph/Android-Application/blob/main/intro.png "Gameplay Screenshot")
 ### About
 This project is developed in **Android Studio** using Java. The application focuses on the development and desining of a single-player game. Thus, the idea, the characters, the code, and the design of the arena are originally implemented. In the repositore you can access the code for observation only, to actually run the application and play the game follow the **"Instructions"** section below. The code is provided in the **"code"** folder and it's fully commented.
 
